@@ -1,6 +1,6 @@
 {
- "appOpenVisible": true,
-  "backPriority": "facebook",
+ "appOpenVisible": false,
+  "backPriority": "facebook54",
   "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "bannerUrl": "https://play2299.atmequiz.com/start",
   "facebookBannerId1": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
@@ -48,7 +48,7 @@
   "isNativeFacebookGoogleBoth": true,
   "nativeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "nativeUrl": "https://play2299.atmequiz.com/start",
-  "priority": "facebook",
+  "priority": "facebook45",
   "showAd": true,
   "toBeClicked": 1,
   "totalIntro": 5
